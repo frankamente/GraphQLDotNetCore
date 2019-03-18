@@ -1,0 +1,2 @@
+Comando para regenerar los modelos desde la base de datos:
+Scaffold-DbContext “Server=localhost;Database=GraphQLDemo;Trusted_Connection=True;” Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -force
